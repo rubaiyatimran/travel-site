@@ -1,1 +1,1 @@
-alert("This is a new message")
+import '../styles/styles.css'
