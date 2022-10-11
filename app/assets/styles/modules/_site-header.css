@@ -15,7 +15,7 @@
 
   &__btn-container {
     @mixin atMedium {
-      order: 2;
+      float: right;
     }
   }
 
@@ -111,8 +111,6 @@
     text-align: center;
 
     @mixin atMedium {
-      display: flex;
-      justify-content: flex-end;
       opacity: 1;
       z-index: 1;
       padding-top: 0;
